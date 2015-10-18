@@ -3,7 +3,7 @@ package com.web.crawler;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
-
+ 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
