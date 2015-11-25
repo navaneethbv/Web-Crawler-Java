@@ -114,7 +114,7 @@ First let's add two private fields to this SpiderLeg.java class:
 
 private List<String> links = new LinkedList<String>(); // Just a list of URLs
 private Document htmlDocument; // This is our web page, or in other words, our document
-And now the simple method in the SpiderLeg class that we'll later improve upon
+And now the simple method in the SpiderLeg class that we'll later improve upon 
 
 public void crawl(String url)
     {
